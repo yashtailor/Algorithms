@@ -36,7 +36,7 @@ int main(){
 			cin>>arr[i];
 		}
 		insertion(arr,size);
-		cout<<"\n\tArray After Bubble : ";
+		cout<<"\n\tArray After Insertion() : ";
 		for(int i=0;i<size;i++){
 			cout<<arr[i]<<" ";
 		}
