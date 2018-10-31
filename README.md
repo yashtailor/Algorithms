@@ -1,5 +1,11 @@
 # Algorithms
-This repo contains all existing types of Algorithms implemented in C++
+This repo contains all existing types of Algorithms implemented in C++ 
+
+![Algorithms](https://img.shields.io/badge/33%25-Algorithms-blue.svg)
+![commit status](https://img.shields.io/github/commit-status/badges/shields/master/5d4ab86b1b5ddfb3c4a70a70bd19932c52603b8c.svg)
+![Languages](https://img.shields.io/badge/Languages-1-green.svg)
+
+
 
 ## 1. Sorting 
 
@@ -10,3 +16,7 @@ Insertion | O(n^2) | [Insertion Sort](https://github.com/Bhupesh-V/Algorithms/bl
 Counting | O(n + k) | [Counting Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/counting.cpp)
 Quick | O(n log n) | [Quick Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/quick.cpp)
 Bubble | O(n^2) | [Bubble Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/bubble.cpp)
+MergeSort | O(log n) | [Merge Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/mergesort.cpp)
+
+--------------------------
+> All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine.
