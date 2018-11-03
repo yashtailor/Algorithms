@@ -7,7 +7,18 @@ This repo contains all existing types of Algorithms implemented in C++
 
 
 
-## 1. Sorting 
+## 1. Searching
+
+Searching Technique | Complexity(Worst Case) | Link
+------------ | ------------- | -------------
+Linear | O(n) | [Linear Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
+Binary | O(log n) | [Binary Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
+Interpolation | O(log log n) | [Interpolation Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
+
+
+
+
+## 2. Sorting 
 
 Sorting Technique | Complexity(Worst Case) | Link
 ------------ | ------------- | -------------
