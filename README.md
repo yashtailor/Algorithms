@@ -1,4 +1,5 @@
-# Algorithms
+<h1 align ="center" >Algorithms</h1>
+
 This repo contains all existing types of Algorithms implemented in C++ 
 
 ![Algorithms](https://img.shields.io/badge/33%25-Algorithms-blue.svg)
