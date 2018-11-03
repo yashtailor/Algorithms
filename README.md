@@ -14,6 +14,7 @@ Searching Technique | Complexity(Worst Case) | Link
 Linear | O(n) | [Linear Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
 Binary | O(log n) | [Binary Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
 Interpolation | O(log log n) | [Interpolation Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp)
+Jump | O(n ½) | [Jump Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/jump_search.cpp)
 
 
 
