@@ -18,18 +18,66 @@ Interpolation | O(log log n) | [Interpolation Search](https://github.com/Bhupesh
 Jump | O(n ½) | [Jump Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/jump_search.cpp) | 
 
 
-
-
 ## 2. Sorting 
 
-Sorting Technique | Complexity(Worst Case) | Link
------------- | ------------- | -------------
-Selection | O(n^2) | [Selection Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/selection.cpp)
-Insertion | O(n^2) | [Insertion Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/insertion.cpp)
-Counting | O(n + k) | [Counting Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/counting.cpp)
-Quick | O(n log n) | [Quick Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/quick.cpp)
-Bubble | O(n^2) | [Bubble Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/bubble.cpp)
-MergeSort | O(log n) | [Merge Sort](https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/mergesort.cpp)
+<table style="width:100%">
+  <tr>
+    <th>Sorting Technique</th>
+    <th>Complexity(Worst Case)</th> 
+    <th>Link</th>
+    <th>Method</th>
+    <th>Stable</th>
+    <th>Class</th>
+  </tr>
+  <tr>
+    <td>Selection</td>
+    <td>O(n^2)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/selection.cpp">Selection Sort</a></td>
+    <td>Selection</td>
+    <td>No</td>
+    <td>Comparison Sort</td>
+  </tr>
+  <tr>
+    <td>Insertion</td>
+    <td>O(n^2)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/insertion.cpp">Insertion Sort</a></td>
+    <td>Insertion</td>
+    <td>Yes</td>
+    <td>Comparison Sort</td>
+  </tr>
+  <tr>
+    <td>Counting</td>
+    <td>O(n + k)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/counting.cpp">Counting Sort</a></td>
+    <td>-</td>
+    <td>Yes</td>
+    <td>Non-Comparison Sort</td>
+  </tr>
+  <tr>
+    <td>Quick</td>
+    <td>O(n log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/quick.cpp">Quick Sort</a></td>
+    <td>Partitioning</td>
+    <td>No</td>
+    <td>Comparison Sort</td>
+  </tr>
+  <tr>
+    <td>Bubble</td>
+    <td>O(n^2)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/bubble.cpp">Bubble Sort</a></td>
+    <td>Exchanging</td>
+    <td>Yes</td>
+    <td>Comparison</td>
+  </tr>
+  <tr>
+    <td>Merge Sort</td>
+    <td>O(n log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/mergesort.cpp">Merge Sort</a></td>
+    <td>Merging</td>
+    <td>Yes</td>
+    <td>-</td>
+  </tr>
+</table>
 
 --------------------------
 > All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine.
