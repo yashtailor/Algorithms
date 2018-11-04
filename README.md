@@ -10,12 +10,39 @@ This repo contains all existing types of Algorithms implemented in C++
 
 ## 1. Searching
 
-Searching Technique | Complexity(Worst Case) | Link |  Any Other Resource
------------- | ------------- | ------------- | -------------
-Linear | O(n) | [Linear Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp) | 
-Binary | O(log n) | [Binary Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/binary_search.cpp) | 
-Interpolation | O(log log n) | [Interpolation Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/interpolation_search.cpp) | [Derivation of Formula](https://bit.ly/2OmUoNq)
-Jump | O(n ½) | [Jump Search](https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/jump_search.cpp) | 
+<table style="width:100%">
+  <tr>
+    <th>Searching Technique</th>
+    <th>Complexity(Worst Case)</th> 
+    <th>Link</th>
+    <th>Any Other Resource</th>
+  </tr>
+  <tr>
+    <td>Linear</td>
+    <td>O(n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/linear_search.cpp">Linear Search</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Binary</td>
+    <td>O(log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/binary_search.cpp">Binary Search</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interpolation</td>
+    <td>O(log log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/interpolation_search.cpp">Interpolation Search</a></td>
+    <td><a href = "https://bit.ly/2OmUoNq">Derivation of Formula</a></td>
+  </tr>
+  <tr>
+    <td>Jump</td>
+    <td>O(n ½)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/jump_search.cpp">Jump Search</a></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 ## 2. Sorting 
