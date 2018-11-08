@@ -32,7 +32,7 @@ This repo contains all existing types of Algorithms implemented in C++
   <tr>
     <td>Ternary</td>
     <td>O(log n)</td> 
-    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/ternary_search.cpp">Binary Search</a></td>
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/ternary_search.cpp">Ternary Search</a></td>
     <td></td>
   </tr>
   <tr>
