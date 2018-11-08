@@ -1,4 +1,4 @@
-<h1 align ="center" >Algorithms</h1>
+﻿<h1 align ="center" >Algorithms</h1>
 
 This repo contains all existing types of Algorithms implemented in C++ 
 
@@ -27,6 +27,12 @@ This repo contains all existing types of Algorithms implemented in C++
     <td>Binary</td>
     <td>O(log n)</td> 
     <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/binary_search.cpp">Binary Search</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ternary</td>
+    <td>O(log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/ternary_search.cpp">Binary Search</a></td>
     <td></td>
   </tr>
   <tr>
