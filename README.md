@@ -112,5 +112,12 @@ This repo contains all existing types of Algorithms implemented in C++
   </tr>
 </table>
 
+## Contribution
+Make sure you follow below rules : 
+
+* Add some easy to understand comments.
+* Give some meaningful variable & function names.
+* Your filename should be easy to recognize. (For example, if you've made a program to print the sum of 2 integers, then the filename can be sum.c or something like that.)
+
 --------------------------
 > All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine.
