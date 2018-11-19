@@ -112,6 +112,21 @@ This repo contains all existing types of Algorithms implemented in C++
   </tr>
 </table>
 
+## 3. Pattern Matching
+
+<table style="width:100%">
+  <tr>
+    <th>Technique</th>
+    <th>Complexity(Worst Case)</th> 
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Knuth-Morris-Pratt</td>
+    <td>O(n+m)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/String Matching/KMP.cpp">KMP</a></td>
+  </tr>
+</table>
+
 ## Contribution
 Make sure you follow below rules : 
 
