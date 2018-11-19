@@ -127,7 +127,7 @@ This repo contains all existing types of Algorithms implemented in C++
   </tr>
 </table>
 
-## 3. Dynamic Programming
+## 4. Dynamic Programming
 
 <table style="width:100%">
   <tr>
@@ -138,7 +138,7 @@ This repo contains all existing types of Algorithms implemented in C++
   <tr>
     <td>Fibonacci</td>
     <td>O(n)</td> 
-    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Dynamic Programming/fibonacci.cpp">KMP</a></td>
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Dynamic Programming/fibonacci.cpp">fibonacci</a></td>
   </tr>
 </table>
 
