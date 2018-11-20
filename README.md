@@ -142,6 +142,32 @@ This repo contains all existing types of Algorithms implemented in C++
   </tr>
 </table>
 
+## 5. Divide & Conquer
+
+<table style="width:100%">
+  <tr>
+    <th>Technique</th>
+    <th>Complexity(Worst Case)</th> 
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Binary Search</td>
+    <td>O(log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Searching/binary_search.cpp">Binary Search</a></td>
+  </tr>
+  <tr>
+    <td>Quick Sort</td>
+    <td>O(n log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/quick.cpp">Quick Sort</a></td>
+  </tr>
+  <tr>
+    <td>Merge Sort</td>
+    <td>O(n log n)</td> 
+    <td><a href = "https://github.com/Bhupesh-V/Algorithms/blob/master/Sorting/mergesort.cpp">Merge Sort</a></td>
+  </tr>
+    
+</table>
+
 ## Contribution
 Make sure you follow below rules : 
 
