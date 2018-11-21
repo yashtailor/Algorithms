@@ -180,4 +180,4 @@ Make sure you follow below rules :
 
 
 --------------------------
-> All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine.
+> All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine & GCC 8.2.0 on Ubuntu (Mate) Machine.
