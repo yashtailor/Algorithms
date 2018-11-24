@@ -3,6 +3,6 @@ compiler:
   - g++
 
 script:
-  cd Dynamic Programming
+  cd Dynamic\ Programming
   make
   make test
