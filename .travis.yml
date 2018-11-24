@@ -11,12 +11,7 @@ install:
   # C++17
   - sudo apt-get install -qq g++-6
   - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-6 90
-  # cppcheck
-  - sudo apt-get install -qq cppcheck
 
 script: 
-  # Build and run this project
-  - g++ main.cpp -std=c++17 -o travis_gcc_cpp17_cppcheck
-  - ./travis_gcc_cpp17_cppcheck
-  # cppcheck
-  - cppcheck --quiet --error-exitcode=1
+  - g++ main.cpp -std=c++17 -o travis_gcc_cpp17
+  - ./travis_gcc_cpp17
