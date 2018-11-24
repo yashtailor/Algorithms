@@ -6,12 +6,3 @@ script:
   cd Dynamic Programming
   make
   make test
-  cd Searching
-  make
-  make test
-  cd Sorting
-  make
-  make test
-  cd String Matching
-  make
-  make test
