@@ -3,7 +3,7 @@
 This repo contains all existing types of Algorithms implemented in C++ 
 
 ![Algorithms](https://img.shields.io/badge/33%25-Algorithms-blue.svg)
-![commit status](https://img.shields.io/github/commit-status/badges/shields/master/5d4ab86b1b5ddfb3c4a70a70bd19932c52603b8c.svg)
+![commit status](https://img.shields.io/badge/commit%20status-master-orange.svg)
 [![Build Status](https://travis-ci.org/Bhupesh-V/Algorithms.svg?branch=master)](https://travis-ci.org/Bhupesh-V/Algorithms)
 ![Languages](https://img.shields.io/badge/Languages-1-green.svg)
 
