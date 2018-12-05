@@ -169,16 +169,11 @@ This repo contains all existing types of Algorithms implemented in C++
     
 </table>
 
-## Contribution
-Make sure you follow below rules : 
-
-* Add some easy to understand comments.
-* Give some meaningful variable & function names.
-* Your filename should be easy to recognize. (For example, if you've made a program to print the sum of 2 integers, then the filename can be sum.c or something like that.)
-
 ## License
 [MIT License](https://github.com/Bhupesh-V/Algorithms/blob/master/LICENSE)
 
+## Contribution
+See [CONTRIBUTING](CONTRIBUTING.md) file for contributing.
 
 --------------------------
 > All the Algorithms have been complied using GCC 8.1.0 (MinGW) on a Winodws Machine & GCC 8.2.0 on Ubuntu (Mate) Machine.
