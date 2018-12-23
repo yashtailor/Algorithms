@@ -6,6 +6,7 @@ This repo contains all existing types of Algorithms implemented in C++
 ![commit status](https://img.shields.io/badge/commit%20status-master-orange.svg)
 [![Build Status](https://travis-ci.org/Bhupesh-V/Algorithms.svg?branch=master)](https://travis-ci.org/Bhupesh-V/Algorithms)
 ![Language](https://img.shields.io/badge/Language-C++-green.svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e322a106d17d4aefa9babb97a298f14f)](https://www.codacy.com/app/Bhupesh-V/Algorithms?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bhupesh-V/Algorithms&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/bhupesh-v/algorithms/badge)](https://www.codefactor.io/repository/github/bhupesh-v/algorithms)
 
 
