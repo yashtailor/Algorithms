@@ -1,4 +1,4 @@
-﻿<h1 align ="center" >Algorithms</h1>
+<h1 align ="center" >Algorithms</h1>
 
 This repo contains all existing types of Algorithms implemented in C++ 
 
@@ -8,6 +8,7 @@ This repo contains all existing types of Algorithms implemented in C++
 ![Language](https://img.shields.io/badge/Language-C++-green.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e322a106d17d4aefa9babb97a298f14f)](https://www.codacy.com/app/Bhupesh-V/Algorithms?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bhupesh-V/Algorithms&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/bhupesh-v/algorithms/badge)](https://www.codefactor.io/repository/github/bhupesh-v/algorithms)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBhupesh-V%2FAlgorithms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBhupesh-V%2FAlgorithms?ref=badge_shield)
 
 
 ## 1. Searching
@@ -172,6 +173,9 @@ This repo contains all existing types of Algorithms implemented in C++
 
 ## License
 [MIT License](https://github.com/Bhupesh-V/Algorithms/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBhupesh-V%2FAlgorithms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBhupesh-V%2FAlgorithms?ref=badge_large)
 
 ## Contribution
 See [CONTRIBUTING](CONTRIBUTING.md) file for contributing.
